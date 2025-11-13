@@ -5,9 +5,9 @@
 ### Full-Stack Web Developer | A2SV '25 | 4th-year @ ASTU  
 🌍 **Adama, Ethiopia** | 📧 [abenezer.seleshi@a2sv.org](mailto:abenezer.seleshi@a2sv.org) | 📱 +251 991 343 124  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](your-portfolio-link) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](your-linkedin-link) 
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://abenezerseleshi-portfiloi.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abenezer-seleshi-66038a246/) 
+[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/ABENEZER-SELESHI)
 
 ---
 

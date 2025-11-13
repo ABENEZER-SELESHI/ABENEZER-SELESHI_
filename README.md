@@ -1,4 +1,4 @@
-<img align="right" width="300" src="" alt="Abenezer" />
+<img align="right" width="300" src="https://github.com/ABENEZER-SELESHI/ABENEZER-SELESHI_/blob/main/assets/profile.png" alt="Abenezer" />
 
 # Hi there 👋, I'm **Abenezer Seleshi**
 

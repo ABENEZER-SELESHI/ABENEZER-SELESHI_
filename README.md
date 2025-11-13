@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://github.com/ABENEZER-SELESHI/ABENEZER-SELESHI_/blob/main/assets/profile.png" alt="Abenezer" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/ABENEZER-SELESHI/ABENEZER-SELESHI_/main/assets/profile.png?raw=true" style="border-radius:50%; border:6px solid #fff; box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="Abenezer Seleshi" />
 
 # Hi there 👋, I'm **Abenezer Seleshi**
 
